@@ -1,4 +1,4 @@
-# [slap](https://github.com/slap-editor/slap) Terminal.app profile
+# [slap](https://github.com/slap-editor/slap) Terminal.app profile : Keybindings
 
 Profile for Terminal.app which supports more keybindings
 
